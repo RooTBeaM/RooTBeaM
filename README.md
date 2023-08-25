@@ -82,6 +82,10 @@ Hobbies: ["Cinema", "Gaming", "IoT"]
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RooTBeaM&repo=recommendation_system&title_color=7A7ADB&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" />
 </a>
 
+<a href="https://github.com/RooTBeaM/realfake_numbers">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RooTBeaM&repo=realfake_numbers&title_color=7A7ADB&text_color=D3D3D3&icon_color=2234AE&bg_color=0,000000,130F40" />
+</a>
+
 <img  src="assests/borderseperator.gif">
 
 <div align="center">
